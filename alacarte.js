@@ -7,7 +7,7 @@ const products = [
     },
     {
         id: 1,
-        image: 'ensalada.jpg',
+        image: 'ensalada.JPG',
         title: 'Ensalada',
         price: 100,
     },
