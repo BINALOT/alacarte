@@ -13,7 +13,7 @@ const products = [
     },
     {
         id: 2,
-        image: 'laing.jpg',
+        image: '429832170_1635526513859155_5058978276014506537_n.jpg',
         title: 'Laing',
         price: 160,
     },
